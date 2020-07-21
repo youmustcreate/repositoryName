@@ -54,5 +54,5 @@ export default {
                 import ("@/views/NotFound"),
         },
     ],
-    mode: "history",
+    // mode: "history",
 };
